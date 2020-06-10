@@ -2,4 +2,4 @@
 
 ## Introduction
 
-This is a simple python3 Task application that uses the Flask library. I was created to practice CURD functions.
+This is a simple python3 Task application that uses the Flask library. That was created to practice CURD functions.
