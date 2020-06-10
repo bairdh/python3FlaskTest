@@ -1,0 +1,10 @@
+body{
+    font-family: sans-serif;
+}
+
+.content{
+    margin: 20%;
+    text-align: center;
+    max-width: 50%;
+    border: 1px solid black;
+}
